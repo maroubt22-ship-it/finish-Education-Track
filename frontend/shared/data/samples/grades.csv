@@ -1,0 +1,21 @@
+id,student_id,competency_id,competency_name,subject,value,evaluation_type,evaluation_date
+GRD00001,STU0001,COMP0001,Algèbre - Résolution d'équations,Mathématiques,16.5,contrôle,2026-03-15
+GRD00002,STU0001,COMP0005,Mécanique - Lois du mouvement,Physique-Chimie,17.0,test blanc,2026-03-10
+GRD00003,STU0001,COMP0013,Compréhension de texte,Français,15.5,exercice,2026-03-08
+GRD00004,STU0002,COMP0001,Algèbre - Résolution d'équations,Mathématiques,12.0,contrôle,2026-03-15
+GRD00005,STU0002,COMP0005,Mécanique - Lois du mouvement,Physique-Chimie,13.5,test blanc,2026-03-10
+GRD00006,STU0002,COMP0013,Compréhension de texte,Français,14.0,exercice,2026-03-08
+GRD00007,STU0003,COMP0001,Algèbre - Résolution d'équations,Mathématiques,10.5,contrôle,2026-03-15
+GRD00008,STU0003,COMP0009,Biologie cellulaire,SVT,11.0,exercice,2026-03-12
+GRD00009,STU0003,COMP0017,Compréhension de texte,Arabe,9.5,contrôle,2026-03-14
+GRD00010,STU0004,COMP0001,Algèbre - Résolution d'équations,Mathématiques,8.5,contrôle,2026-03-15
+GRD00011,STU0004,COMP0013,Compréhension de texte,Français,9.0,exercice,2026-03-08
+GRD00012,STU0004,COMP0005,Mécanique - Lois du mouvement,Physique-Chimie,7.5,test blanc,2026-03-10
+GRD00013,STU0005,COMP0001,Algèbre - Résolution d'équations,Mathématiques,14.5,contrôle,2026-03-15
+GRD00014,STU0005,COMP0013,Compréhension de texte,Français,13.0,exercice,2026-03-08
+GRD00015,STU0006,COMP0001,Algèbre - Résolution d'équations,Mathématiques,11.5,contrôle,2026-03-15
+GRD00016,STU0007,COMP0001,Algèbre - Résolution d'équations,Mathématiques,15.0,contrôle,2026-03-15
+GRD00017,STU0007,COMP0005,Mécanique - Lois du mouvement,Physique-Chimie,16.5,test blanc,2026-03-10
+GRD00018,STU0008,COMP0013,Compréhension de texte,Français,12.5,exercice,2026-03-08
+GRD00019,STU0008,COMP0025,Histoire contemporaine,Histoire-Géographie,13.5,contrôle,2026-03-11
+GRD00020,STU0009,COMP0001,Algèbre - Résolution d'équations,Mathématiques,10.0,contrôle,2026-03-15

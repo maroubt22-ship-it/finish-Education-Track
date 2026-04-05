@@ -1,0 +1,41 @@
+id,name,subject,category,level
+COMP0001,Algèbre - Résolution d'équations,Mathématiques,Sciences,Intermédiaire
+COMP0002,Géométrie - Théorèmes et démonstrations,Mathématiques,Sciences,Avancé
+COMP0003,Analyse - Dérivées et primitives,Mathématiques,Sciences,Avancé
+COMP0004,Statistiques et probabilités,Mathématiques,Sciences,Intermédiaire
+COMP0005,Mécanique - Lois du mouvement,Physique-Chimie,Sciences,Intermédiaire
+COMP0006,Électricité - Circuits et lois,Physique-Chimie,Sciences,Fondamental
+COMP0007,Chimie - Réactions et équilibres,Physique-Chimie,Sciences,Intermédiaire
+COMP0008,Optique et ondes,Physique-Chimie,Sciences,Avancé
+COMP0009,Biologie cellulaire,SVT,Sciences,Fondamental
+COMP0010,Génétique et hérédité,SVT,Sciences,Avancé
+COMP0011,Écologie et environnement,SVT,Sciences,Intermédiaire
+COMP0012,Physiologie humaine,SVT,Sciences,Intermédiaire
+COMP0013,Compréhension de texte,Français,Langues,Fondamental
+COMP0014,Expression écrite,Français,Langues,Intermédiaire
+COMP0015,Grammaire et orthographe,Français,Langues,Fondamental
+COMP0016,Littérature française,Français,Langues,Avancé
+COMP0017,Compréhension de texte,Arabe,Langues,Fondamental
+COMP0018,Expression écrite,Arabe,Langues,Intermédiaire
+COMP0019,Grammaire et conjugaison,Arabe,Langues,Fondamental
+COMP0020,Littérature arabe,Arabe,Langues,Avancé
+COMP0021,Reading comprehension,Anglais,Langues,Fondamental
+COMP0022,Writing skills,Anglais,Langues,Intermédiaire
+COMP0023,Grammar and vocabulary,Anglais,Langues,Fondamental
+COMP0024,Oral communication,Anglais,Langues,Intermédiaire
+COMP0025,Histoire contemporaine,Histoire-Géographie,Humanités,Intermédiaire
+COMP0026,Géographie économique,Histoire-Géographie,Humanités,Intermédiaire
+COMP0027,Analyse de documents,Histoire-Géographie,Humanités,Avancé
+COMP0028,Méthodologie dissertation,Histoire-Géographie,Humanités,Avancé
+COMP0029,Problématisation,Philosophie,Humanités,Avancé
+COMP0030,Argumentation,Philosophie,Humanités,Avancé
+COMP0031,Analyse conceptuelle,Philosophie,Humanités,Avancé
+COMP0032,Dissertation philosophique,Philosophie,Humanités,Avancé
+COMP0033,Compréhension des textes religieux,Éducation Islamique,Humanités,Fondamental
+COMP0034,Éthique et morale,Éducation Islamique,Humanités,Intermédiaire
+COMP0035,Histoire islamique,Éducation Islamique,Humanités,Intermédiaire
+COMP0036,Culture religieuse,Éducation Islamique,Humanités,Fondamental
+COMP0037,Algorithmique,Informatique,Techniques,Intermédiaire
+COMP0038,Programmation Python,Informatique,Techniques,Avancé
+COMP0039,Bases de données,Informatique,Techniques,Avancé
+COMP0040,Réseaux et Internet,Informatique,Techniques,Intermédiaire

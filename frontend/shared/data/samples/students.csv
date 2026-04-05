@@ -1,0 +1,11 @@
+id,first_name,last_name,class_name,date_of_birth,parent_phone,parent_email
+STU0001,Youssef,Alami,2ème Bac Sciences Math,2007-03-15,+212 612345678,youssef.parent@gmail.com
+STU0002,Fatima,Benali,1ère Bac Sciences,2008-05-22,+212 623456789,fatima.parent@gmail.com
+STU0003,Mohamed,Chakir,Tronc Commun,2009-09-10,+212 634567890,mohamed.parent@gmail.com
+STU0004,Aisha,Dahbi,3ème année collège,2010-01-18,+212 645678901,aisha.parent@gmail.com
+STU0005,Hassan,El Fassi,2ème année collège,2011-07-25,+212 656789012,hassan.parent@gmail.com
+STU0006,Zineb,Fahmi,1ère année collège,2012-11-30,+212 667890123,zineb.parent@gmail.com
+STU0007,Omar,Ghazi,2ème Bac Sciences Physiques,2007-04-12,+212 678901234,omar.parent@gmail.com
+STU0008,Salma,Hilal,1ère Bac Lettres,2008-08-20,+212 689012345,salma.parent@gmail.com
+STU0009,Amine,Idrissi,Tronc Commun,2009-12-05,+212 690123456,amine.parent@gmail.com
+STU0010,Nour,Jalil,3ème année collège,2010-02-28,+212 601234567,nour.parent@gmail.com
